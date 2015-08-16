@@ -13,13 +13,29 @@
                     <key>url</key>
                     <string>http://120.25.12.144:8088/打包测试.ipa</string>
                 </dict>
+                <dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://x5.justep.com/apps/x5.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://x5.justep.com/apps/x5.png</string>
+				</dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
                 <string>com.izonso.test</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
